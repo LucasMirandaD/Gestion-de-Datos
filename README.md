@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasMirandaD
 - 👀 I'm interested in becoming an information systems engineer 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
